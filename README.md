@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the Missisippi Plains baby!! whoooo we can do any thing we want here
 
 Currently, two official plugins are available:
 
@@ -67,4 +67,3 @@ export default tseslint.config([
   },
 ])
 ```
-this is the master branch
